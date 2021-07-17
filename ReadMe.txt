@@ -1,9 +1,3 @@
-Group 6 AIRA BITI S1G2
-Elle Aliz Binti Aminuddin B031810295
-Gion Min Ming B031810222
-Thitthima A/P Wat B031810361
-
-
 Cockroach Behavior
 
 1. Run the roachsim.sim.
